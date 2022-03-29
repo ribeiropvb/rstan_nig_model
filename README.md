@@ -1,1 +1,1 @@
-# rstan_nig_model
+# Modelo Normal-Inverse-Gamma (NIG) - Utilizando pacote Rstan
